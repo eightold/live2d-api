@@ -2,7 +2,7 @@
     "models": [
         [    
             "Potion-Maker/Pio",
-            "remm/rem",
+            "Potion/rem",
             "Potion-Maker/Tia"
         ],        
         "bilibili-live/22",
